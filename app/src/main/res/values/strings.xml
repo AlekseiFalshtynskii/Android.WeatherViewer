@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">WeatherViewer</string>
+    <string name="app_name">Weather Viewer</string>
+    <string name="action_settings">Settings</string>
 </resources>
