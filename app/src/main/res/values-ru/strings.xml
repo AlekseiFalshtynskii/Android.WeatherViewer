@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">WeatherViewer</string>
+    <string name="api_key">bd5e378503939ddaee76f12ad7a97608</string>
+    <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
+    <string name="invalid_url">Неверный URL</string>
+    <string name="weather_condition_image">Графическое представление погодных условий</string>
+    <string name="high_temp">Высокая: %s</string>
+    <string name="low_temp">Низкая: %s</string>
+    <string name="day_description">%1$s: %2$s</string>
+    <string name="humidity">Влажность: %s</string>
+    <string name="hint_text">Введите город (например, Boston, MA, US)</string>
+    <string name="read_error">Не удалось получить данные</string>
+    <string name="connect_error">Не удалось подключиться к OpenWeatherMap.org</string>
+</resources>
