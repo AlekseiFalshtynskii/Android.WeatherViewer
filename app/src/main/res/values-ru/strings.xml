@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="utf-8"?>
 <resources>
-    <string name="app_name">WeatherViewer</string>
+    <string name="app_name">Прогноз погоды</string>
     <string name="api_key">bd5e378503939ddaee76f12ad7a97608</string>
     <string name="web_service_url">http://api.openweathermap.org/data/2.5/forecast/daily?q=</string>
     <string name="invalid_url">Неверный URL</string>
